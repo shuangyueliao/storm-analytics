@@ -9,3 +9,7 @@ target/
 .DS_Store
 nohup.out
 dump.rdb
+.idea
+*.iml
+target
+.DS_Store
